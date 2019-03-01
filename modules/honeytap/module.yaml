@@ -1,0 +1,12 @@
+id: 
+version: 1.0.0
+runtime: python3.6
+category: tap
+meta:
+  name: honeytap
+  description: 
+  keywords: 
+  website: 
+author:
+  name: 
+license:

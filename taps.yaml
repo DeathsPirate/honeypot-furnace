@@ -1,0 +1,5 @@
+- name: honeylogs-tap
+  module: honeytap
+  source: honeylogs
+  aws:
+    shardCount: 1

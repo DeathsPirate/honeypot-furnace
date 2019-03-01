@@ -1,0 +1,10 @@
+config-groups:
+  default:
+    test-param:
+      label: Testing parameter
+      mandatory: true
+      type: single
+      default: test
+      visible: true
+      validator: '[A-z\._]+'
+      help: This is just a testing parameter

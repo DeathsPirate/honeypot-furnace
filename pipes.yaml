@@ -1,0 +1,5 @@
+- tap: honeylogs-tap
+  pipeline: enrichment
+
+- pipeline: enrichment
+  sink: es-sink

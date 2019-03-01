@@ -1,0 +1,5 @@
+- name: honeylogs
+  type: KinesisStream
+  initialize: false
+  aws:
+    shardCount: 1

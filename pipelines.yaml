@@ -1,0 +1,6 @@
+- name: enrichment
+  modules:
+    - name: lookup-geo
+    - name: honeyenrich
+
+    
